@@ -1,0 +1,125 @@
+{
+  "h":
+  [
+    {
+      "n": "invokeMenuAction",
+      "c": "dq",
+      "p": "lj",
+      "m": -1438833992
+    },
+    {
+      "n": "setCheckClick",
+      "c": "jp",
+      "p": "bq",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileX",
+      "c": "jp",
+      "p": "bc",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileY",
+      "c": "jp",
+      "p": "cc",
+      "m": 1
+    },
+    {
+      "n": "setViewportWalking",
+      "c": "jp",
+      "p": "ct",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSpellWidget",
+      "c": "ia",
+      "p": "os",
+      "m": 2095827681
+    },
+    {
+      "n": "setSelectedSpellChildIndex",
+      "c": "client",
+      "p": "oc",
+      "m": -1339855645
+    },
+    {
+      "n": "setSelectedSpellItemId",
+      "c": "client",
+      "p": "ok",
+      "m": 1931014943
+    },
+    {
+      "n": "getNpcOverheadIcon",
+      "c": "hw",
+      "p": "bd",
+      "m": 1
+    },
+    {
+      "n": "getNpcOverheadMethod",
+      "c": "ec",
+      "p": "ax",
+      "m": 1110875933
+    },
+    {
+      "n": "isMoving",
+      "c": "di",
+      "p": "dx",
+      "m": -1820678361
+    },
+    {
+      "n": "getActorAnimationId",
+      "c": "di",
+      "p": "bj",
+      "m": 1400873349
+    },
+    {
+      "n": "menuOptionsCount",
+      "c": "wv",
+      "p": "gp",
+      "m": 1449400177
+    },
+    {
+      "n": "menuParam0Array",
+      "c": "wv",
+      "p": "at",
+      "m": 1
+    },
+    {
+      "n": "menuParam1Array",
+      "c": "wv",
+      "p": "ae",
+      "m": 1
+    },
+    {
+      "n": "menuTypesArray",
+      "c": "wv",
+      "p": "ao",
+      "m": 1
+    },
+    {
+      "n": "menuIdentifiersArray",
+      "c": "wv",
+      "p": "ac",
+      "m": 1
+    },
+    {
+      "n": "menuItemIdsArray",
+      "c": "wv",
+      "p": "aj",
+      "m": 1
+    },
+    {
+      "n": "menuOptionsArray",
+      "c": "wv",
+      "p": "au",
+      "m": 1
+    },
+    {
+      "n": "menuTargetsArray",
+      "c": "wv",
+      "p": "an",
+      "m": 1
+    }
+  ]
+}
