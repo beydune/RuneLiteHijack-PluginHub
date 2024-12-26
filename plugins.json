@@ -64,6 +64,27 @@
     "displayName": "[P] Multi Indicators",
     "description": "Highlights multi-combat and PvP safe zones.",
     "provider": "Kotori"
+  },
+  {
+    "internalName": "kotori-plugin-loader",
+    "hash": "3018D800A54A66A0DC0B56EA08A78445CA1889A9169C9CAC16C1B27E6E0185C652063CE84952A9AE895BB938FB040190824BEEAB5DD665B88C43CFDEFD41501F",
+    "size": 12345,
+    "plugins": [
+      "com.kotori.runelite.KotoriPluginLoader"
+    ],
+    "displayName": "[K] Kotori Plugin Loader",
+    "description": "Loads plugins ported by Kotori.",
+    "provider": "Kotori"
+  },
+  {
+    "internalName": "kotori-utils",
+    "hash": "22C113932E91D9E4D382C31E0F4849AB3D7102698110AED094C8F4D4E316AE9EDDEE72EB16A2151C278D6D2B456BA93D3F2475B80A2DF95921E21C50D9324413",
+    "size": 23456,
+    "plugins": [
+      "com.kotori.runelite.KotoriUtils"
+    ],
+    "displayName": "[K] Kotori Utils",
+    "description": "Utilities needed for certain ported plugins to work.",
+    "provider": "Kotori"
   }
 ]
-
